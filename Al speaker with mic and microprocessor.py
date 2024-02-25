@@ -1,7 +1,7 @@
 # This AI Speaker code can recognize your voice and what you say via microphone
 # When you say something, this code sends a message to microprocessor-board based on serial communication(UART)
 # This AI Speaker tell you weather, Exchange rate, time
-# This AI speaker allows you to turn on and off LEDs connected to hardware.
+# This AI speaker allows your voice to turn on and off LEDs connected to hardware .
 import multiprocessing
 import threading
 import winsound
